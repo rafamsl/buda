@@ -1,0 +1,120 @@
+{
+  "links": [
+    {
+      "id": "seed-reading-rahula",
+      "category": "reading",
+      "title": "What the Buddha Taught — Walpola Rahula",
+      "description": "Concise, academic overview of core doctrines.",
+      "url": "https://www.goodreads.com/book/show/409622.What_the_Buddha_Taught"
+    },
+    {
+      "id": "seed-reading-batchelor",
+      "category": "reading",
+      "title": "Buddhism Without Beliefs — Stephen Batchelor",
+      "description": "Secular, pragmatic approach to practice.",
+      "url": "https://www.goodreads.com/book/show/111290.Buddhism_Without_Beliefs"
+    },
+    {
+      "id": "seed-reading-hanh",
+      "category": "reading",
+      "title": "The Heart of the Buddha's Teaching — Thich Nhat Hanh",
+      "description": "Accessible teaching on mindfulness and compassion.",
+      "url": "https://plumvillage.org/books/the-heart-of-the-buddhas-teaching"
+    },
+    {
+      "id": "seed-reading-dhammapada",
+      "category": "reading",
+      "title": "Dhammapada (Access to Insight)",
+      "description": "Verses from the Buddha's teachings.",
+      "url": "https://www.accesstoinsight.org/tipitaka/kn/dhp/index.html"
+    },
+    {
+      "id": "seed-reading-plain-english",
+      "category": "reading",
+      "title": "Mindfulness in Plain English — Bhante Gunaratana",
+      "description": "Clear meditation instruction.",
+      "url": "https://urbandharma.org/pdf/mindfulness_in_plain_english.pdf"
+    },
+    {
+      "id": "seed-reading-kabatzinn",
+      "category": "reading",
+      "title": "Wherever You Go, There You Are — Jon Kabat-Zinn",
+      "description": "Practical mindfulness in daily life.",
+      "url": "https://www.mindfulnesscds.com/products/wherever-you-go-there-you-are"
+    },
+
+    {
+      "id": "seed-video-dharmaseed",
+      "category": "video",
+      "title": "Dharma Seed (Talks)",
+      "description": "Talks from insight meditation teachers.",
+      "url": "https://dharmaseed.org/"
+    },
+    {
+      "id": "seed-video-mindful",
+      "category": "video",
+      "title": "Mindful.org",
+      "description": "Short, practical videos on mindfulness.",
+      "url": "https://www.mindful.org/"
+    },
+    {
+      "id": "seed-video-ati",
+      "category": "video",
+      "title": "Access to Insight (Talks)",
+      "description": "Large repository of early Buddhist texts and talks.",
+      "url": "https://www.accesstoinsight.org/"
+    },
+
+    {
+      "id": "seed-podcast-10percent",
+      "category": "podcast",
+      "title": "Ten Percent Happier Podcast",
+      "description": "Interviews with meditation teachers and scientists.",
+      "url": "https://www.tenpercent.com/podcast"
+    },
+    {
+      "id": "seed-podcast-insight-hour",
+      "category": "podcast",
+      "title": "Insight Hour with Joseph Goldstein",
+      "description": "Deep dives into Buddhist concepts and meditation.",
+      "url": "https://beherenownetwork.com/insight-hour/"
+    },
+    {
+      "id": "seed-podcast-metta-hour",
+      "category": "podcast",
+      "title": "Metta Hour with Sharon Salzberg",
+      "description": "Teachings on loving-kindness.",
+      "url": "https://beherenownetwork.com/metta-hour/"
+    },
+    {
+      "id": "seed-podcast-secular",
+      "category": "podcast",
+      "title": "The Secular Buddhist",
+      "description": "Buddhism from a non-religious perspective.",
+      "url": "https://www.thesecularbuddhist.com/"
+    },
+
+    {
+      "id": "seed-guided-tara",
+      "category": "guided",
+      "title": "Tara Brach — Guided Meditations",
+      "description": "Library of guided practices.",
+      "url": "https://www.tarabrach.com/guided-meditations/"
+    },
+    {
+      "id": "seed-guided-jack",
+      "category": "guided",
+      "title": "Jack Kornfield — Meditations",
+      "description": "Guided practices for beginners and experienced meditators.",
+      "url": "https://jackkornfield.com/meditations/"
+    },
+    {
+      "id": "seed-guided-insight-timer",
+      "category": "guided",
+      "title": "Insight Timer",
+      "description": "Thousands of guided meditations and a timer.",
+      "url": "https://insighttimer.com/"
+    }
+  ],
+  "progress": []
+} 
